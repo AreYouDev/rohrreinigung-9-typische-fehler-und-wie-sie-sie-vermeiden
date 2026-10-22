@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AreYouDev.github.io/rohrreinigung-9-typische-fehler-und-wie-sie-sie-vermeiden/sitemap.xml
